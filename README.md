@@ -1,5 +1,3 @@
--[English](README.md)
-
 
 
 <div align="center">
@@ -34,7 +32,6 @@
 
 ## 📃 Application introduction
 
-!!! Code may not be used for profitable commercial purposes without the author's permission.
 
 Welcome to Multi-Calculator!
 It integrates multiple practical functions to provide you with all calculation and conversion services you may need in your life. Let's take a look at the app:
