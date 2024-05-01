@@ -13,9 +13,7 @@
 ## 📖 Features
 
 * Lightweight (<5MB), 
-* No unnecessary permissions required, 
-* Material Design 3, 
-* History, 
+* No unnecessary permissions required,  
 * Portrait and landscape orientation, 
 * Multiple useful functions
 
